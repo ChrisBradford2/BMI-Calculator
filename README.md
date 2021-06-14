@@ -4,14 +4,37 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/ChrisBradford2/BMI-Calculator)](https://github.com/ChrisBradford2/BMI-Calculator/commits/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ChrisBradford2/BMI-Calculator/graphs/commit-activity)
 [![GitHub](https://img.shields.io/github/license/ChrisBradford2/BMI-Calculator?color=orange)](https://github.com/ChrisBradford2/BMI-Calculator/blob/master/LICENSE)
-> Outil de calcul d'IMC fait en C++ avec Qt dans le contexte d'une évaluation de fin de module de C++.
 
-### 🏠 [Homepage](https://chrisbradford2.github.io/BMI-Calculator/)
+BMI calculator made in C ++ with Qt in the context of a C ++ end-of-module evaluation.
+
+## 🏠 [Homepage](https://chrisbradford2.github.io/BMI-Calculator/)
+
+## Requirement
+
+* [Qt Creator](https://www.qt.io/)
 
 ## Install
 
 ```sh
 git clone git@github.com:ChrisBradford2/BMI-Calculator.git
+```
+
+## Run
+
+### QtCreator
+
+Launch Qt, then open the project by selecting the CMakeLists.txt (`BMI-Calculator\bmi-calculator\CMakeLists.txt`).
+
+### Windows File Explorer
+
+Go to `distri` folder and execute `bmi-calculator.exe`.
+
+### PowerShell
+
+```sh
+cd BMI-Calculator
+cd distri
+start bmi-calculator.exe
 ```
 
 ## Author
