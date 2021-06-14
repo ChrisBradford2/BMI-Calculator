@@ -49,18 +49,18 @@ start bmi-calculator.exe
 * Github: [@leroycharles](https://github.com/leroycharles)
 * LinkedIn: [@Charles Leroy](https://www.linkedin.com/in/leroycharles/)
 
-## 🤝 Contributing
+### 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
 Feel free to check [issues page](https://github.com/ChrisBradford2/BMI-Calculator/issues). You can also take a look at the [contributing guide](https://github.com/ChrisBradford2/BMI-Calculator/blob/master/CONTRIBUTING.md).
 
-## Show your support
+### Show your support
 
 Give a ⭐️ if this project helped you!
 
 
-## 📝 License
+### 📝 License
 
 Copyright © 2021 [CopK Labs](https://convergence-of-paprika.com/).
 
