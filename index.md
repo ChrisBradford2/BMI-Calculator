@@ -39,13 +39,13 @@ start bmi-calculator.exe
 
 👤 **Nicolas Barbarisi**
 
-* Website: [www.nicolas-barbarisi.com](www.nicolas-barbarisi.com)
+* Website: [www.nicolas-barbarisi.com](https://www.nicolas-barbarisi.com)
 * Github: [@ChrisBradford2](https://github.com/ChrisBradford2)
 * LinkedIn: [@Nicolas Barbarisi ](https://www.linkedin.com/in/nicolas-barbarisi-a4a97a193/)
 
 👤 **Charles Leroy**
 
-* Website: [www.leroycharles.vivaldi.net](www.leroycharles.vivaldi.net)
+* Website: [www.leroycharles.vivaldi.net](https://www.leroycharles.vivaldi.net)
 * Github: [@leroycharles](https://github.com/leroycharles)
 * LinkedIn: [@Charles Leroy](https://www.linkedin.com/in/leroycharles/)
 
