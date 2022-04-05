@@ -2,7 +2,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/chrisbradford2/BMI-Calculator#readme)
 [![GitHub last commit](https://img.shields.io/github/last-commit/chrisbradford2/BMI-Calculator)](https://github.com/chrisbradford2/BMI-Calculator/commits/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/chrisbradford2/BMI-Calculator/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/chrisbradford2/BMI-Calculator/graphs/commit-activity)
 [![GitHub](https://img.shields.io/github/license/chrisbradford2/BMI-Calculator?color=orange)](https://github.com/chrisbradford2/BMI-Calculator/blob/master/LICENSE)
 
 BMI calculator made in C ++ with Qt in the context of a C ++ end-of-module evaluation.
